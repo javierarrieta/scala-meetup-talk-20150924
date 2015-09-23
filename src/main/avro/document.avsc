@@ -1,0 +1,1 @@
+{"namespace":"com.nitro.platform.messages","type":"record","name":"DocumentMetadata","fields":[{"name":"id","type":"string"},{"name":"uri","type":"string"},{"name":"size","type":"long"},{"name":"contentType","type":"string"},{"name":"timestamp","type":"long"}]}
